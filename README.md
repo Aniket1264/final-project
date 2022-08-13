@@ -1,6 +1,6 @@
 ## Future ready talent project by Aniket Khatavkar.
 Here i create a fashion store and servies web app named Sewing that helps the customer to find good products and services. 
-## Website Link :https://ambitious-water-0e4c11210.1.azurestaticapps.net
+## Website Link :https://aniket1264.github.io/final-project/
 ## Snapshots.
 ![home](https://user-images.githubusercontent.com/107783530/183083831-b95acebd-7896-42f2-8108-e91b18fcc0ac.PNG)
 ![bo](https://user-images.githubusercontent.com/107783530/183084283-86a5fe1f-0872-4ee7-93a0-cb1806e65024.PNG)
